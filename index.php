@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <!--
 http://www.yazo.net/racine/v1/techniques/morpions.html
+Version 2
 -->
 <html>
 <head>
